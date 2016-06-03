@@ -9,11 +9,17 @@
             <div class='wrapper'>
                 
                 <div id='banner'>
-                    
+                    <a href="/" title='Return to Home'></a>
+                    <img src="img/image_71.jpeg" alt="Pizza Place">
                 </div>
                 
                 <div id='nav'>
-                    
+                    <ul>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="team.php">Team</a></li>
+                        <li><a href="menu.php">Menu</a></li>
+                        <li><a href="contact.php">Contact</a></li>
+                    </ul>
                 </div>
                 
                 <div class='content'>
